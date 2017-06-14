@@ -1,0 +1,9 @@
+C:\Users\Noel Camacho\Desktop\OperacionesArbol\OperacionesArbol\obj\Debug\OperacionesArbol.csprojResolveAssemblyReference.cache
+C:\Users\Noel Camacho\Desktop\OperacionesArbol\OperacionesArbol\obj\Debug\OperacionesArbol.Operaciones.resources
+C:\Users\Noel Camacho\Desktop\OperacionesArbol\OperacionesArbol\obj\Debug\OperacionesArbol.Properties.Resources.resources
+C:\Users\Noel Camacho\Desktop\OperacionesArbol\OperacionesArbol\obj\Debug\OperacionesArbol.csproj.GenerateResource.Cache
+C:\Users\Noel Camacho\Desktop\OperacionesArbol\OperacionesArbol\bin\Debug\OperacionesArbol.exe.config
+C:\Users\Noel Camacho\Desktop\OperacionesArbol\OperacionesArbol\bin\Debug\OperacionesArbol.exe
+C:\Users\Noel Camacho\Desktop\OperacionesArbol\OperacionesArbol\bin\Debug\OperacionesArbol.pdb
+C:\Users\Noel Camacho\Desktop\OperacionesArbol\OperacionesArbol\obj\Debug\OperacionesArbol.exe
+C:\Users\Noel Camacho\Desktop\OperacionesArbol\OperacionesArbol\obj\Debug\OperacionesArbol.pdb
